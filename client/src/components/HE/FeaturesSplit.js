@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/marginalia/marginalia-web-programer.png')}
+                  src={require('../../assets/images/marginalia/marginalia-web-programer.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -112,7 +112,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/marginalia/marginalia-web-searching.png')}
+                  src={require('../../assets/images/marginalia/marginalia-web-searching.png')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -138,7 +138,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/marginalia/marginalia-1214.png')}
+                  src={require('../../assets/images/marginalia/marginalia-1214.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
